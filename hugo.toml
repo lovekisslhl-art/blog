@@ -1,0 +1,4 @@
+baseURL = 'https://lovekisslhl-art.github.io/blog/'
+languageCode = 'zh-cn'
+title = 'Leon Blog'
+theme = "PaperMod"
