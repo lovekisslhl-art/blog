@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Leon Blog</title>
-    <link>https://lovekisslhl-art.github.io/blog/posts/</link>
-    <description>Recent content in Posts on Leon Blog</description>
+    <title>美剧 on Leon Blog</title>
+    <link>https://lovekisslhl-art.github.io/blog/tags/%E7%BE%8E%E5%89%A7/</link>
+    <description>Recent content in 美剧 on Leon Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 12 Apr 2026 22:09:00 +0800</lastBuildDate>
-    <atom:link href="https://lovekisslhl-art.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lovekisslhl-art.github.io/blog/tags/%E7%BE%8E%E5%89%A7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人生切割术 S01E01</title>
       <link>https://lovekisslhl-art.github.io/blog/posts/%E4%BA%BA%E7%94%9F%E5%88%87%E5%89%B2%E6%9C%AF-s01e01/</link>
@@ -25,14 +25,6 @@
 &lt;li&gt;上司没有分离记忆，结尾显示她是男主角邻居——是监视还是巧合？&lt;/li&gt;
 &lt;li&gt;男主角丧妻，现实生活酗酒，工作人格反而更有活力。为逃避妻子死亡分割了自己的记忆&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://lovekisslhl-art.github.io/blog/posts/new/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lovekisslhl-art.github.io/blog/posts/new/</guid>
-      <description>&lt;h1 id=&#34;新的尝试&#34;&gt;新的尝试&lt;/h1&gt;
-&lt;p&gt;今天第一次使用hugo，在ai的帮助下连接接了GitHub Pages，现在开始测试是否可以直接在终端这个环境下发布blog&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
